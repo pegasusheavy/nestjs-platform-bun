@@ -54,7 +54,7 @@ import { CommonModule } from '@angular/common';
                 </svg>
               </a>
               <a
-                href="https://github.com/PegasusHeavyIndustries/nestjs-bun"
+                href="https://github.com/pegasusheavy/nestjs-platform-bun"
                 target="_blank"
                 class="inline-flex items-center gap-2 px-6 py-3 bg-bg-tertiary text-text-primary font-semibold
                        rounded-lg hover:bg-bg-card transition-colors border border-border"

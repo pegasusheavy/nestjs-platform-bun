@@ -78,7 +78,7 @@ interface NavItem {
         <!-- Footer -->
         <div class="absolute bottom-0 left-0 right-0 p-4 border-t border-border bg-bg-secondary">
           <a
-            href="https://github.com/PegasusHeavyIndustries/nestjs-bun"
+            href="https://github.com/pegasusheavy/nestjs-platform-bun"
             target="_blank"
             class="flex items-center gap-2 px-3 py-2 text-sm text-text-secondary
                    hover:text-text-primary transition-colors"
@@ -129,7 +129,7 @@ interface NavItem {
             <!-- Right actions -->
             <div class="flex items-center gap-4">
               <a
-                href="https://github.com/PegasusHeavyIndustries/nestjs-bun"
+                href="https://github.com/pegasusheavy/nestjs-platform-bun"
                 target="_blank"
                 class="p-2 text-text-secondary hover:text-text-primary transition-colors"
               >

@@ -223,17 +223,17 @@ export class ExamplesComponent {
     {
       title: 'GraphQL API',
       description: 'Using Apollo Server with @pegasusheavy/nestjs-platform-bun',
-      link: 'https://github.com/PegasusHeavyIndustries/nestjs-bun/tree/main/examples/graphql',
+      link: 'https://github.com/pegasusheavy/nestjs-platform-bun/tree/main/examples/graphql',
     },
     {
       title: 'Database Integration',
       description: 'Prisma ORM with SQLite',
-      link: 'https://github.com/PegasusHeavyIndustries/nestjs-bun/tree/main/examples/prisma',
+      link: 'https://github.com/pegasusheavy/nestjs-platform-bun/tree/main/examples/prisma',
     },
     {
       title: 'Full Stack App',
       description: 'React frontend with @pegasusheavy/nestjs-platform-bun API',
-      link: 'https://github.com/PegasusHeavyIndustries/nestjs-bun/tree/main/examples/fullstack',
+      link: 'https://github.com/pegasusheavy/nestjs-platform-bun/tree/main/examples/fullstack',
     },
   ];
 }

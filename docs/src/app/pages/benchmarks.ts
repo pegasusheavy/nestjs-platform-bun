@@ -141,7 +141,7 @@ import { CommonModule } from '@angular/common';
         </p>
         <div class="bg-bg-code rounded-lg border border-border p-4 overflow-x-auto">
           <pre><code class="text-sm"><span class="text-text-muted"># Clone the repository</span>
-git clone https://github.com/PegasusHeavyIndustries/nestjs-bun
+git clone https://github.com/pegasusheavy/nestjs-platform-bun
 cd nestjs-bun
 
 <span class="text-text-muted"># Install dependencies</span>
