@@ -1,0 +1,91 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
+*.tmp
+*.temp
+
+# Test artifacts
+.nyc_output/
+junit.xml
+test-results/
+
+# Package manager locks (keep pnpm-lock.yaml)
+package-lock.json
+yarn.lock
+
+# Benchmark artifacts
+benchmark/node_modules/
+benchmark/coverage/
+
+# Cache
+.cache/
+.eslintcache
+.prettiercache
+*.cache
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Turbo
+.turbo/
+
+# Debug
+.debug/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Husky
+.husky/_/
